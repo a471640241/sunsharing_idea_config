@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="D:/workspace/edu-common" firstStartUp="false" />
     <entry projectName="D:/workspace/mybatis-generator-gui-0.8.4" firstStartUp="false" />
     <entry projectName="D:/workspace/ptj" firstStartUp="false" />
   </component>
