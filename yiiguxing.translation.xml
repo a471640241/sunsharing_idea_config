@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rows" />
+      <item value="cell" />
+      <item value="Represents a Cell within a {@link XWPFTable}. The * Cell is the thing that holds the actual content (paragraphs etc)" />
+      <item value="CONTENTCONTROL" />
+      <item value="DOCUMENT" />
+      <item value="HEADER" />
+      <item value="FOOTER" />
+      <item value="FOOTNOTE" />
+      <item value="TABLECELL" />
+      <item value="removes a paragraph of this tablecell * * @param pos The position in the list of paragraphs, 0-based" />
       <item value="EXTERNAL" />
       <item value="INTERNAL" />
       <item value="Package should contain a content type part" />
@@ -14,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
