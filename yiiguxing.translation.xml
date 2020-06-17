@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXTERNAL" />
+      <item value="INTERNAL" />
       <item value="Package should contain a content type part" />
       <item value="Column count doesn't match value count at row 1" />
       <item value="task Decorator" />
@@ -12,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
