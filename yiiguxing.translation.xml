@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="记忆" />
+      <item value="mer" />
       <item value="Extracting tar content of undefined failed, the file appears to be corrupt: &quot;Invalid tar header. Maybe the tar is corrupted or it needs to be gunzipped?&quot;" />
       <item value="rows" />
       <item value="cell" />
@@ -26,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
