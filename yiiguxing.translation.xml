@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid mime type &quot;blob;charset=UTF-8&quot;: does not contain '/'" />
       <item value="degrees" />
       <item value="A UNIQUE constraint failed (UNIQUE constraint failed: T_PW_AREA.AREA_ID)" />
       <item value="three" />
@@ -33,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
