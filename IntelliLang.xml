@@ -1,6 +1,6 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="SQL" injector-id="xml">
+    <injection language="SQLite" injector-id="xml">
       <display-name>select</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("select")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
     </injection>
