@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There appears to be trouble with your network connection. Retrying." />
       <item value="rank" />
       <item value="rand" />
       <item value="Invalid mime type &quot;blob;charset=UTF-8&quot;: does not contain '/'" />
@@ -36,7 +37,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
+        <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="31" />
         <entry key="ROMANIAN" value="1" />
       </map>
