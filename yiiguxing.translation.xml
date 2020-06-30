@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Area" />
+      <item value="Arae" />
       <item value="There appears to be trouble with your network connection. Retrying." />
       <item value="rank" />
       <item value="rand" />
@@ -38,7 +40,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="ENGLISH" value="32" />
+        <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
