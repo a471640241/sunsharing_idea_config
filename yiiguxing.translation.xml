@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal Syntax for Set Operation" />
       <item value="Unsatisfied Dependency Exception" />
       <item value="removes a Run at the position pos in the paragraph" />
       <item value="removes a Run at the position pos in the paragraph * @param pos * @return true if the run was removed" />
@@ -43,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
