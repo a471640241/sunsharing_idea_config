@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refuse" />
       <item value="district Ctrl" />
       <item value="Illegal Syntax for Set Operation" />
       <item value="Unsatisfied Dependency Exception" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
