@@ -1,0 +1,4 @@
+<templateSet group="stream">
+  <template name=".toList" value=".collect(Collectors.toList())" description=".collect(Collectors.toList());" toReformat="false" toShortenFQNames="true" />
+  <template name=".toSet" value=".collect(Collectors.toSet())" description=".collect(Collectors.toSet());" toReformat="false" toShortenFQNames="true" />
+</templateSet>
