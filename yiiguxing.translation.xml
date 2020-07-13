@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Atomically increments by one the current value. * * @return the previous value" />
       <item value="compare To" />
       <item value="comparing" />
       <item value="Error setting non null for parameter #4 with JdbcType VARCHAR" />
@@ -50,12 +51,11 @@
       <item value="Package should contain a content type part" />
       <item value="Column count doesn't match value count at row 1" />
       <item value="task Decorator" />
-      <item value="allow Core Thread Time Out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
