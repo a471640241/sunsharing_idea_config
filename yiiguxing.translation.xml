@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Code Str To Zw" />
+      <item value="get Code Str To Zw If Exists" />
       <item value="Region No Util" />
       <item value="Atomically increments by one the current value. * * @return the previous value" />
       <item value="compare To" />
@@ -49,13 +51,11 @@
       <item value="removes a paragraph of this tablecell * * @param pos The position in the list of paragraphs, 0-based" />
       <item value="EXTERNAL" />
       <item value="INTERNAL" />
-      <item value="Package should contain a content type part" />
-      <item value="Column count doesn't match value count at row 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
