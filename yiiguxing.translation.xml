@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MIDDLE" />
+      <item value="MIDDLE BEGIN" />
       <item value="on Prepare Params" />
       <item value="export" />
       <item value="getOutputStream() has already been called for this response" />
@@ -49,13 +51,11 @@
       <item value="DOCUMENT" />
       <item value="HEADER" />
       <item value="FOOTER" />
-      <item value="FOOTNOTE" />
-      <item value="TABLECELL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
