@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Djshxx List Exprot" />
       <item value="harmless race." />
       <item value="MIDDLE" />
       <item value="MIDDLE BEGIN" />
@@ -50,12 +51,11 @@
       <item value="Represents a Cell within a {@link XWPFTable}. The * Cell is the thing that holds the actual content (paragraphs etc)" />
       <item value="CONTENTCONTROL" />
       <item value="DOCUMENT" />
-      <item value="HEADER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
