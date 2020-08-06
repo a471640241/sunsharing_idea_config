@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fail" />
+      <item value="fial" />
       <item value="Duplicate column name 'hjdz'" />
       <item value="get Djshxx List Exprot" />
       <item value="harmless race." />
@@ -49,13 +51,12 @@
       <item value="Extracting tar content of undefined failed, the file appears to be corrupt: &quot;Invalid tar header. Maybe the tar is corrupted or it needs to be gunzipped?&quot;" />
       <item value="rows" />
       <item value="cell" />
-      <item value="Represents a Cell within a {@link XWPFTable}. The * Cell is the thing that holds the actual content (paragraphs etc)" />
-      <item value="CONTENTCONTROL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
+        <entry key="IRISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
