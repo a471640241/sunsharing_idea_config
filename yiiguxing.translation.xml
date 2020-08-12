@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent Modification Exception" />
       <item value="exist Jyjsh" />
       <item value="NOAUTH Authentication required." />
       <item value="WRONGPASS invalid username-password pair" />
@@ -50,12 +51,11 @@
       <item value="A UNIQUE constraint failed (UNIQUE constraint failed: T_PW_AREA.AREA_ID)" />
       <item value="three" />
       <item value="two" />
-      <item value="tow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="IRISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
