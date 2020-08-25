@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate" />
+      <item value="Illegal State Exception" />
       <item value="attempted to return null from a method with a primitive return type" />
       <item value="Unexpected end of stream." />
       <item value="Software caused connection abort: socket write error" />
@@ -49,13 +51,11 @@
       <item value="There appears to be trouble with your network connection. Retrying." />
       <item value="rank" />
       <item value="rand" />
-      <item value="Invalid mime type &quot;blob;charset=UTF-8&quot;: does not contain '/'" />
-      <item value="degrees" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="IRISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
