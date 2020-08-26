@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid bound statement (not found)" />
       <item value="Duplicate" />
       <item value="Illegal State Exception" />
       <item value="attempted to return null from a method with a primitive return type" />
@@ -50,12 +51,11 @@
       <item value="Arae" />
       <item value="There appears to be trouble with your network connection. Retrying." />
       <item value="rank" />
-      <item value="rand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="IRISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
