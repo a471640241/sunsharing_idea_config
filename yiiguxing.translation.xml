@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="XML document structures must start and end within the same entity." />
       <item value="Illegal Argument Exception" />
       <item value="Invalid bound statement (not found)" />
       <item value="Duplicate" />
@@ -50,12 +51,11 @@
       <item value="removes a paragraph of this tablecell" />
       <item value="Area" />
       <item value="Arae" />
-      <item value="There appears to be trouble with your network connection. Retrying." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="IRISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
