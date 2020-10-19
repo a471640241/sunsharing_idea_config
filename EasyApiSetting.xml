@@ -1,0 +1,7 @@
+<application>
+  <component name="EasyApiSetting">
+    <option name="postmanToken" value="" />
+    <option name="yapiServer" value="http://192.168.0.62:3000" />
+    <option name="yapiTokens" value="ea1c6e3927fcf662f6ddd4d5559dd44e924bc1ceced4253668744bc6701c51eb" />
+  </component>
+</application>
