@@ -2,6 +2,6 @@
   <component name="EasyApiSetting">
     <option name="postmanToken" value="" />
     <option name="yapiServer" value="http://192.168.0.62:3000" />
-    <option name="yapiTokens" value="#&#13;&#10;#Mon Oct 19 14:15:36 CST 2020&#13;&#10;ea1c6e3927fcf662f6ddd4d5559dd44e924bc1ceced4253668744bc6701c51eb=&#13;&#10;athena-system-manager=ea1c6e3927fcf662f6ddd4d5559dd44e924bc1ceced4253668744bc6701c51eb&#13;&#10;\u63A5\u53E3\u793A\u4F8B=ea1c6e3927fcf662f6ddd4d5559dd44e924bc1ceced4253668744bc6701c51eb&#13;&#10;" />
+    <option name="yapiTokens" value="#&#13;&#10;#Wed Oct 21 14:57:43 CST 2020&#13;&#10;ea1c6e3927fcf662f6ddd4d5559dd44e924bc1ceced4253668744bc6701c51eb=&#13;&#10;athena-system-manager=ea1c6e3927fcf662f6ddd4d5559dd44e924bc1ceced4253668744bc6701c51eb&#13;&#10;\u533A\u57FA\u7840\u6559\u80B2=eee411f398bd6e6ee9a09d3df1836c09f9129866c928285312d84bb09e34cb5f&#13;&#10;\u63A5\u53E3\u793A\u4F8B=ea1c6e3927fcf662f6ddd4d5559dd44e924bc1ceced4253668744bc6701c51eb&#13;&#10;" />
   </component>
 </application>
