@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Prepare Params" />
       <item value="convert" />
       <item value="web Logic Initial Context Server Side" />
       <item value="always Update Some Column By Id" />
@@ -46,7 +47,6 @@
       <item value="harmless race." />
       <item value="MIDDLE" />
       <item value="MIDDLE BEGIN" />
-      <item value="on Prepare Params" />
       <item value="export" />
       <item value="getOutputStream() has already been called for this response" />
       <item value="get Code Str To Zw" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="IRISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
