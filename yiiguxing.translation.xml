@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gift" />
       <item value="on Prepare Params" />
       <item value="convert" />
       <item value="web Logic Initial Context Server Side" />
@@ -50,12 +51,11 @@
       <item value="export" />
       <item value="getOutputStream() has already been called for this response" />
       <item value="get Code Str To Zw" />
-      <item value="get Code Str To Zw If Exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="IRISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
