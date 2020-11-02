@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="event" />
       <item value="Unresolved variable or type zzConfig" />
       <item value="Attempt to assign to const or readonly variable" />
       <item value="need Zz Card" />
@@ -50,12 +51,11 @@
       <item value="get Djshxx List Exprot" />
       <item value="harmless race." />
       <item value="MIDDLE" />
-      <item value="MIDDLE BEGIN" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="IRISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
