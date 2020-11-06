@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ESLint: Use object destructuring.(prefer-destructuring)" />
       <item value="event" />
       <item value="Unresolved variable or type zzConfig" />
       <item value="Attempt to assign to const or readonly variable" />
@@ -50,11 +51,10 @@
       <item value="Duplicate column name 'hjdz'" />
       <item value="get Djshxx List Exprot" />
       <item value="harmless race." />
-      <item value="MIDDLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
+        <entry key="CHINESE" value="105" />
         <entry key="ENGLISH" value="105" />
         <entry key="IRISH" value="1" />
         <entry key="GERMAN" value="1" />
