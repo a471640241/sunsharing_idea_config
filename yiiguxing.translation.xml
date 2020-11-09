@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result of 'exception()' not thrown" />
       <item value="ESLint: Use object destructuring.(prefer-destructuring)" />
       <item value="event" />
       <item value="Unresolved variable or type zzConfig" />
@@ -50,7 +51,6 @@
       <item value="fial" />
       <item value="Duplicate column name 'hjdz'" />
       <item value="get Djshxx List Exprot" />
-      <item value="harmless race." />
     </histories>
     <option name="languageScores">
       <map>
