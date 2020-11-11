@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use object destructuring" />
       <item value="React Hook &quot;useCodeName&quot; cannot be called inside a callback. React Hooks must be called in a React function component or a custom React Hook function." />
       <item value="Jdbc" />
       <item value="Handler Method Argument Resolver" />
@@ -50,7 +51,6 @@
       <item value="Success" />
       <item value="pw Success" />
       <item value="TOWN ID" />
-      <item value="fail" />
     </histories>
     <option name="languageScores">
       <map>
