@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed during checkstyle execution" />
+      <item value="fails On Error" />
       <item value="definition" />
       <item value="Rule Desc" />
       <item value="inner Check" />
@@ -49,13 +51,11 @@
       <item value="Use of path extensions for request mapping and for content negotiation is discouraged." />
       <item value="could not get type for" />
       <item value="was not configured" />
-      <item value="password masked" />
-      <item value="Unable to start embedded Tomcat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
