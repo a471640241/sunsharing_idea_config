@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unresolved variable or type removeRecord" />
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="Abstract Pointcut Advisor" />
       <item value="Tigon My Batis Ready Event" />
@@ -50,11 +51,10 @@
       <item value="on Prepare Params" />
       <item value="convert" />
       <item value="web Logic Initial Context Server Side" />
-      <item value="always Update Some Column By Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
+        <entry key="CHINESE" value="139" />
         <entry key="ENGLISH" value="139" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
