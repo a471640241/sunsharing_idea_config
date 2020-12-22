@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Post Construct" />
       <item value="Unexpected end of stream" />
       <item value="Connection failure occurred" />
       <item value="Incorrect result size: expected 1, actual 0" />
@@ -50,12 +51,11 @@
       <item value="Unresolved variable or type zzConfig" />
       <item value="Attempt to assign to const or readonly variable" />
       <item value="need Zz Card" />
-      <item value="gift" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
