@@ -20,4 +20,7 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
   </action>
+  <action id="fireline.actions.FireLineAction">
+    <mouse-shortcut keystroke="shift control button3" />
+  </action>
 </keymap>
