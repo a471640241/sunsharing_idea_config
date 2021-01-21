@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="isolation" />
       <item value="supplement Hj Data" />
       <item value="Fork Join Pool" />
       <item value="check Program" />
@@ -50,12 +51,11 @@
       <item value="Check Ret Processor" />
       <item value="supplement Sbzz By Cbs Id" />
       <item value="encoder" />
-      <item value="gzip Encoded Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
