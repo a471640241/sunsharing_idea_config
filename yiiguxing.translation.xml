@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refuse Reason" />
+      <item value="talented Check Result" />
+      <item value="supplement Hj Data" />
       <item value="Region No Util" />
       <item value="isolation" />
-      <item value="supplement Hj Data" />
       <item value="Fork Join Pool" />
       <item value="check Program" />
       <item value="after Query" />
@@ -49,13 +51,11 @@
       <item value="process Normal Data" />
       <item value="delayed Pay Month Count" />
       <item value="calc Gift Date Range" />
-      <item value="Check Ret Processor" />
-      <item value="supplement Sbzz By Cbs Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611197970508" />
+    <option name="lastTrimTime" value="1612258198329" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
