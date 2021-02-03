@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="community" />
+      <item value="street" />
       <item value="Verify Info" />
       <item value="refuse Reason" />
       <item value="talented Check Result" />
@@ -49,13 +51,11 @@
       <item value="sb Calc Info List" />
       <item value="convert Calc Info List" />
       <item value="process Old Data" />
-      <item value="process Normal Data" />
-      <item value="delayed Pay Month Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
