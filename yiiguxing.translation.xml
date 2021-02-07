@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean not injected anywhere" />
       <item value="No way to find the corresponding tag" />
       <item value="The producer service state not OK, CREATE_JUST" />
       <item value="No topic route info in name server for the topic: oxford-hj-verity" />
@@ -50,7 +51,6 @@
       <item value="inner Check" />
       <item value="raw Data" />
       <item value="Single Ptj Check Ret Info" />
-      <item value="Calc" />
     </histories>
     <option name="languageScores">
       <map>
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612258198329" />
+    <option name="lastTrimTime" value="1612692349635" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
