@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strings must use singlequote" />
+      <item value="Declare only one React component per file" />
       <item value="expire" />
       <item value="deal Re Score" />
       <item value="LOAD" />
@@ -49,8 +51,6 @@
       <item value="Abstract Pointcut Advisor" />
       <item value="Tigon My Batis Ready Event" />
       <item value="after Properties Set" />
-      <item value="Illegal State Exception" />
-      <item value="currentzone" />
     </histories>
     <option name="languageScores">
       <map>
