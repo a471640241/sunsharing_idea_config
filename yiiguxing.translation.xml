@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An enum switch case label must be the unqualified name of an enumeration constant" />
+      <item value="Constant expression required" />
       <item value="iphone" />
       <item value="Attempt to assign to const or readonly variable" />
       <item value="both sides of the move must be committed together" />
@@ -49,8 +51,6 @@
       <item value="This instance method writes to a static field. This is tricky to get correct if multiple instances are being manipulated, and generally bad practice." />
       <item value="Calc Input Info" />
       <item value="There is a branch of statement that, if executed, guarantees that a null value will be dereferenced, which would generate a NullPointerException when the code is executed. Of course, the problem might be that the branch or statement is infeasible and that the null pointer exception can't ever be executed; deciding that is beyond the ability of SpotBugs." />
-      <item value="Returning a reference to a mutable object value stored in one of the object's fields exposes the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Returning a new copy of the object is better approach in many situations." />
-      <item value="refresh" />
     </histories>
     <option name="languageScores">
       <map>
