@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to assign to const or readonly variable" />
       <item value="An enum switch case label must be the unqualified name of an enumeration constant" />
       <item value="Constant expression required" />
       <item value="iphone" />
-      <item value="Attempt to assign to const or readonly variable" />
       <item value="both sides of the move must be committed together" />
       <item value="Use object destructuring.(prefer-destructuring)" />
       <item value="Just for testing or demo program" />
