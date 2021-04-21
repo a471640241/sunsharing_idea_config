@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to assign to const or readonly variable" />
       <item value="on Process Result" />
       <item value="not available" />
-      <item value="Attempt to assign to const or readonly variable" />
       <item value="An enum switch case label must be the unqualified name of an enumeration constant" />
       <item value="Constant expression required" />
       <item value="iphone" />
