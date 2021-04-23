@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Szpmgl Jth Export List" />
       <item value="Attempt to assign to const or readonly variable" />
       <item value="on Process Result" />
       <item value="not available" />
@@ -50,12 +51,11 @@
       <item value="decode" />
       <item value="This method call passes a null value for a non-null method parameter. Either the parameter is annotated as a parameter that should always be non-null, or analysis has shown that it will always be dereferenced." />
       <item value="Write to static field from instance method" />
-      <item value="This instance method writes to a static field. This is tricky to get correct if multiple instances are being manipulated, and generally bad practice." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
