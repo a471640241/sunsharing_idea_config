@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Filed" />
       <item value="sonar" />
       <item value="Function Name Parsing and Resolution" />
       <item value="get Szpmgl Jth Export List" />
@@ -50,12 +51,11 @@
       <item value="check Program" />
       <item value="after Query" />
       <item value="Duplicate column" />
-      <item value="decode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="192" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
