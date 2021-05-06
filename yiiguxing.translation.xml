@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid Date Str 8" />
       <item value="calc Sub Month Count" />
       <item value="current" />
       <item value="check Zjlx And Zjhm" />
@@ -50,12 +51,11 @@
       <item value="talented Check Result" />
       <item value="supplement Hj Data" />
       <item value="Region No Util" />
-      <item value="isolation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619400811675" />
+    <option name="lastTrimTime" value="1620286242131" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
