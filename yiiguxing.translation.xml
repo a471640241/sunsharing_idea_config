@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot deserialize instance of `java.lang.String` out of START_ARRAY token" />
       <item value="invalid Date Str 8" />
       <item value="calc Sub Month Count" />
       <item value="current" />
@@ -50,12 +51,11 @@
       <item value="refuse Reason" />
       <item value="talented Check Result" />
       <item value="supplement Hj Data" />
-      <item value="Region No Util" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
