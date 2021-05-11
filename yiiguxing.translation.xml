@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cache Evict" />
       <item value="Old version of checkstyle detected. Consider updating to &gt;= v8.30" />
       <item value="Cannot deserialize instance of `java.lang.String` out of START_ARRAY token" />
       <item value="invalid Date Str 8" />
@@ -37,7 +38,6 @@
       <item value="READ WRITE" />
       <item value="WRITE" />
       <item value="At least one non empty cache name should be provided per cache operation." />
-      <item value="Cache Evict" />
       <item value="Hestia" />
       <item value="Hestia Constant" />
       <item value="has Guardian" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
