@@ -1,0 +1,8 @@
+<application>
+  <component name="AmoySettings">
+    <option name="amoyUrl" value="http://192.168.0.116:20095/" />
+    <option name="password" value="286518" />
+    <option name="userId" value="471640241@qq.com" />
+    <option name="yapiUrl" value="http://192.168.0.62:3000" />
+  </component>
+</application>
