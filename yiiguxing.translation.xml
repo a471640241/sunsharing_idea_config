@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pair" />
+      <item value="Scan Pair" />
       <item value="Cache Evict" />
       <item value="Old version of checkstyle detected. Consider updating to &gt;= v8.30" />
       <item value="Cannot deserialize instance of `java.lang.String` out of START_ARRAY token" />
@@ -49,13 +51,11 @@
       <item value="community" />
       <item value="street" />
       <item value="Verify Info" />
-      <item value="refuse Reason" />
-      <item value="talented Check Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620286242131" />
+    <option name="lastTrimTime" value="1621410177530" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
