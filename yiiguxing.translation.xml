@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Engine" />
       <item value="Pair" />
       <item value="Scan Pair" />
       <item value="Cache Evict" />
@@ -50,12 +51,11 @@
       <item value="get Reserve Date List" />
       <item value="community" />
       <item value="street" />
-      <item value="Verify Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
