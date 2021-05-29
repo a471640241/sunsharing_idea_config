@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Package should contain a content type part" />
       <item value="Gets the year field. This method returns the primitive int value for the year. The year returned by this method is proleptic as per get(YEAR). To obtain the year-of-era, use get(YEAR_OF_ERA)." />
       <item value="default constructor not found. class com.sunsharing.fourCard.core.rules.sb.SbCalcInfo" />
       <item value="Engine" />
@@ -50,12 +51,11 @@
       <item value="The producer service state not OK, CREATE_JUST" />
       <item value="No topic route info in name server for the topic: oxford-hj-verity" />
       <item value="subscribe" />
-      <item value="get Reserve Date List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
