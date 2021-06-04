@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation-specified bean name 'transer' for bean class" />
+      <item value="non-compatible bean definition" />
       <item value="and overriding is disabled." />
       <item value="nd overriding is disabled." />
       <item value="Package should contain a content type part" />
@@ -49,13 +51,11 @@
       <item value="Hestia" />
       <item value="Hestia Constant" />
       <item value="has Guardian" />
-      <item value="Bean not injected anywhere" />
-      <item value="The producer service state not OK, CREATE_JUST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
