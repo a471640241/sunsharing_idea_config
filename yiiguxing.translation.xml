@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delete Qjy Cbs Dart Dj" />
       <item value="Annotation-specified bean name 'transer' for bean class" />
       <item value="non-compatible bean definition" />
       <item value="and overriding is disabled." />
@@ -50,12 +51,11 @@
       <item value="At least one non empty cache name should be provided per cache operation." />
       <item value="Hestia" />
       <item value="Hestia Constant" />
-      <item value="has Guardian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
