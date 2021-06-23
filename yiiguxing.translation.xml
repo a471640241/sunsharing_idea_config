@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sixnj" />
       <item value="judge Fp" />
       <item value="argument type mismatch" />
       <item value="required a single bean, but 2 were found:" />
@@ -50,11 +51,10 @@
       <item value="Declare only one React component per file" />
       <item value="expire" />
       <item value="deal Re Score" />
-      <item value="LOAD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
+        <entry key="CHINESE" value="217" />
         <entry key="ENGLISH" value="217" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -63,6 +63,7 @@
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
@@ -72,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623984281907" />
+    <option name="lastTrimTime" value="1624436150506" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
