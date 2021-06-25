@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wait" />
       <item value="sixnj" />
       <item value="judge Fp" />
       <item value="argument type mismatch" />
       <item value="required a single bean, but 2 were found:" />
-      <item value="wait" />
       <item value="non-compatible bean definition of same name and" />
       <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
       <item value="delete Qjy Cbs Dart Dj" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
