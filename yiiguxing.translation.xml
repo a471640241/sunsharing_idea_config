@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upper" />
       <item value="connect Timeout" />
       <item value="Export" />
       <item value="Exprot" />
@@ -50,7 +51,6 @@
       <item value="undo Cancel Entrance" />
       <item value="Specified class is an interface" />
       <item value="HTTP method names must be tokens" />
-      <item value="Strings must use singlequote" />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625534195075" />
+    <option name="lastTrimTime" value="1629880157689" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
