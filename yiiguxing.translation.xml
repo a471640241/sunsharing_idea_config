@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Data truncation: Truncated incorrect DOUBLE value:" />
       <item value="upper" />
       <item value="connect Timeout" />
       <item value="Export" />
@@ -50,12 +51,11 @@
       <item value="embedded database please put a supported one on the classpath" />
       <item value="undo Cancel Entrance" />
       <item value="Specified class is an interface" />
-      <item value="HTTP method names must be tokens" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629880157689" />
+    <option name="lastTrimTime" value="1630390629577" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
