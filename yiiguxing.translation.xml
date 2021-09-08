@@ -73,9 +73,16 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630390629577" />
+    <option name="lastTrimTime" value="1631066450917" />
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="foldOriginal" value="true" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="2fe0974b2b33175c" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
