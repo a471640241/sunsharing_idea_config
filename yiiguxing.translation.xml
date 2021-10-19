@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decoder" />
+      <item value="standard Packet" />
       <item value="is not a type supported by this encoder." />
       <item value="Incompatible Class Change Error" />
       <item value="exclude" />
@@ -49,8 +51,6 @@
       <item value="Constant expression required" />
       <item value="iphone" />
       <item value="both sides of the move must be committed together" />
-      <item value="Use object destructuring.(prefer-destructuring)" />
-      <item value="Just for testing or demo program" />
     </histories>
     <option name="languageScores">
       <map>
