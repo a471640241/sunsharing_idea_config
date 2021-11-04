@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="construct Parametric Type" />
+      <item value="Illegal Argument Exception" />
+      <item value="class expects 0" />
       <item value="decoder" />
       <item value="standard Packet" />
       <item value="is not a type supported by this encoder." />
@@ -48,9 +51,6 @@
       <item value="on Process Result" />
       <item value="not available" />
       <item value="An enum switch case label must be the unqualified name of an enumeration constant" />
-      <item value="Constant expression required" />
-      <item value="iphone" />
-      <item value="both sides of the move must be committed together" />
     </histories>
     <option name="languageScores">
       <map>
