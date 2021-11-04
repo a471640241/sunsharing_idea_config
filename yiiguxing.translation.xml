@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ASC" />
       <item value="construct Parametric Type" />
       <item value="Illegal Argument Exception" />
       <item value="class expects 0" />
@@ -50,7 +51,6 @@
       <item value="Attempt to assign to const or readonly variable" />
       <item value="on Process Result" />
       <item value="not available" />
-      <item value="An enum switch case label must be the unqualified name of an enumeration constant" />
     </histories>
     <option name="languageScores">
       <map>
