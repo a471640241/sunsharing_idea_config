@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NO COMPRESSION" />
       <item value="non-static inner classes like this can only by instantiated using default" />
       <item value="ASC" />
       <item value="construct Parametric Type" />
@@ -50,7 +51,6 @@
       <item value="Function Name Parsing and Resolution" />
       <item value="get Szpmgl Jth Export List" />
       <item value="Attempt to assign to const or readonly variable" />
-      <item value="on Process Result" />
     </histories>
     <option name="languageScores">
       <map>
