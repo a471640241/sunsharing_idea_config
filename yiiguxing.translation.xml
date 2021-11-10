@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Access Denied Exception" />
       <item value="NO COMPRESSION" />
       <item value="non-static inner classes like this can only by instantiated using default" />
       <item value="ASC" />
@@ -50,7 +51,6 @@
       <item value="sonar" />
       <item value="Function Name Parsing and Resolution" />
       <item value="get Szpmgl Jth Export List" />
-      <item value="Attempt to assign to const or readonly variable" />
     </histories>
     <option name="languageScores">
       <map>
