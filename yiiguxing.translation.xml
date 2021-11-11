@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto Lines" />
+      <item value="enable History Listen" />
       <item value="Access Denied Exception" />
       <item value="NO COMPRESSION" />
       <item value="non-static inner classes like this can only by instantiated using default" />
@@ -49,8 +51,6 @@
       <item value="ZJHM EXITES" />
       <item value="check Filed" />
       <item value="sonar" />
-      <item value="Function Name Parsing and Resolution" />
-      <item value="get Szpmgl Jth Export List" />
     </histories>
     <option name="languageScores">
       <map>
