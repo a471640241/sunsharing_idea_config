@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
       <item value="invalidate" />
       <item value="auto Lines" />
       <item value="enable History Listen" />
@@ -50,7 +51,6 @@
       <item value="current" />
       <item value="check Zjlx And Zjhm" />
       <item value="ZJHM EXITES" />
-      <item value="check Filed" />
     </histories>
     <option name="languageScores">
       <map>
