@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An artifact is in conflict, its version is probably wrongly resolved due to a bug in IntelliJ.yi " />
       <item value="Required request part 'file' is not present" />
       <item value="valid" />
       <item value="invalidate" />
@@ -50,7 +51,6 @@
       <item value="invalid Date Str 8" />
       <item value="calc Sub Month Count" />
       <item value="current" />
-      <item value="check Zjlx And Zjhm" />
     </histories>
     <option name="languageScores">
       <map>
