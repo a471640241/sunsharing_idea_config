@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Such Field Error" />
+      <item value="base" />
       <item value="An artifact is in conflict, its version is probably wrongly resolved due to a bug in IntelliJ.yi " />
       <item value="Required request part 'file' is not present" />
       <item value="valid" />
@@ -49,8 +51,6 @@
       <item value="Old version of checkstyle detected. Consider updating to &gt;= v8.30" />
       <item value="Cannot deserialize instance of `java.lang.String` out of START_ARRAY token" />
       <item value="invalid Date Str 8" />
-      <item value="calc Sub Month Count" />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
