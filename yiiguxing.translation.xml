@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="before" />
       <item value="No Such Field Error" />
       <item value="base" />
       <item value="An artifact is in conflict, its version is probably wrongly resolved due to a bug in IntelliJ.yi " />
@@ -50,7 +51,6 @@
       <item value="Cache Evict" />
       <item value="Old version of checkstyle detected. Consider updating to &gt;= v8.30" />
       <item value="Cannot deserialize instance of `java.lang.String` out of START_ARRAY token" />
-      <item value="invalid Date Str 8" />
     </histories>
     <option name="languageScores">
       <map>
