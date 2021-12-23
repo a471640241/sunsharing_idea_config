@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transfer Percent" />
       <item value="Import Excel Build" />
       <item value="before" />
       <item value="No Such Field Error" />
@@ -50,7 +51,6 @@
       <item value="Pair" />
       <item value="Scan Pair" />
       <item value="Cache Evict" />
-      <item value="Old version of checkstyle detected. Consider updating to &gt;= v8.30" />
     </histories>
     <option name="languageScores">
       <map>
