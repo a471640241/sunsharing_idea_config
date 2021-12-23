@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Import Excel Build" />
       <item value="before" />
       <item value="No Such Field Error" />
       <item value="base" />
@@ -50,7 +51,6 @@
       <item value="Scan Pair" />
       <item value="Cache Evict" />
       <item value="Old version of checkstyle detected. Consider updating to &gt;= v8.30" />
-      <item value="Cannot deserialize instance of `java.lang.String` out of START_ARRAY token" />
     </histories>
     <option name="languageScores">
       <map>
