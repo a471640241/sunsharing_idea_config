@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Sms Artificial" />
       <item value="Process terminated" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
       <item value="transfer Percent" />
@@ -50,7 +51,6 @@
       <item value="Gets the year field. This method returns the primitive int value for the year. The year returned by this method is proleptic as per get(YEAR). To obtain the year-of-era, use get(YEAR_OF_ERA)." />
       <item value="default constructor not found. class com.sunsharing.fourCard.core.rules.sb.SbCalcInfo" />
       <item value="Engine" />
-      <item value="Pair" />
     </histories>
     <option name="languageScores">
       <map>
