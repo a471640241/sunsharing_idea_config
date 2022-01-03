@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result Maps collection already contains value" />
       <item value="Artificial" />
       <item value="send Sms Artificial" />
       <item value="is Before" />
@@ -50,7 +51,6 @@
       <item value="and overriding is disabled." />
       <item value="nd overriding is disabled." />
       <item value="Package should contain a content type part" />
-      <item value="Gets the year field. This method returns the primitive int value for the year. The year returned by this method is proleptic as per get(YEAR). To obtain the year-of-era, use get(YEAR_OF_ERA)." />
     </histories>
     <option name="languageScores">
       <map>
