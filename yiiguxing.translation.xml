@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not registered via @EnableConfigurationProperties, marked as Spring component, or scanned via @ConfigurationPropertiesScan" />
       <item value="mt Amount" />
       <item value="Result Maps collection already contains value" />
       <item value="Artificial" />
@@ -50,7 +51,6 @@
       <item value="Annotation-specified bean name 'transer' for bean class" />
       <item value="non-compatible bean definition" />
       <item value="and overriding is disabled." />
-      <item value="nd overriding is disabled." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,6 @@
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
-    <option name="translateDocumentation" value="true" />
     <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
