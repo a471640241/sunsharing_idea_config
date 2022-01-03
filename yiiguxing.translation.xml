@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mt Amount" />
       <item value="Result Maps collection already contains value" />
       <item value="Artificial" />
       <item value="send Sms Artificial" />
@@ -50,7 +51,6 @@
       <item value="non-compatible bean definition" />
       <item value="and overriding is disabled." />
       <item value="nd overriding is disabled." />
-      <item value="Package should contain a content type part" />
     </histories>
     <option name="languageScores">
       <map>
