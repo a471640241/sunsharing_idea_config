@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="include Location" />
       <item value="on Process Result" />
       <item value="Compares this date-time to another date-time." />
       <item value="Not registered via @EnableConfigurationProperties, marked as Spring component, or scanned via @ConfigurationPropertiesScan" />
@@ -50,7 +51,6 @@
       <item value="non-compatible bean definition of same name and" />
       <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
       <item value="delete Qjy Cbs Dart Dj" />
-      <item value="Annotation-specified bean name 'transer' for bean class" />
     </histories>
     <option name="languageScores">
       <map>
