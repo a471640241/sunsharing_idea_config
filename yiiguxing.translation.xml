@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Async Batch Sms" />
+      <item value="send Async Sms" />
       <item value="ALPHA NUMERIC" />
       <item value="NUMERIC" />
       <item value="Attempt to assign to const or readonly variable" />
@@ -49,8 +51,6 @@
       <item value="wait" />
       <item value="sixnj" />
       <item value="judge Fp" />
-      <item value="argument type mismatch" />
-      <item value="required a single bean, but 2 were found:" />
     </histories>
     <option name="languageScores">
       <map>
