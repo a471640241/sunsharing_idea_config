@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If configuration is not required add spring.config.import=optional:configserver: instead." />
       <item value="describe" />
       <item value="send Async Batch Sms" />
       <item value="send Async Sms" />
@@ -50,7 +51,6 @@
       <item value="Export" />
       <item value="Exprot" />
       <item value="wait" />
-      <item value="sixnj" />
     </histories>
     <option name="languageScores">
       <map>
