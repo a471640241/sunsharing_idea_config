@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify Code Expire Time" />
+      <item value="expire Min" />
       <item value="If configuration is not required add spring.config.import=optional:configserver: instead." />
       <item value="describe" />
       <item value="send Async Batch Sms" />
@@ -49,8 +51,6 @@
       <item value="upper" />
       <item value="connect Timeout" />
       <item value="Export" />
-      <item value="Exprot" />
-      <item value="wait" />
     </histories>
     <option name="languageScores">
       <map>
