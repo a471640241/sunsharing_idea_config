@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="include Location" />
       <item value="rest Day List" />
       <item value="no Creators, like default constructor, exist" />
       <item value="verify Code Expire Time" />
@@ -12,7 +13,6 @@
       <item value="ALPHA NUMERIC" />
       <item value="NUMERIC" />
       <item value="Attempt to assign to const or readonly variable" />
-      <item value="include Location" />
       <item value="on Process Result" />
       <item value="Compares this date-time to another date-time." />
       <item value="Not registered via @EnableConfigurationProperties, marked as Spring component, or scanned via @ConfigurationPropertiesScan" />
