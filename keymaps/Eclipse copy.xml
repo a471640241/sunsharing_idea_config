@@ -8,6 +8,7 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow" />
+  <action id="ChangesView.ShelveSilently" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
@@ -19,6 +20,10 @@
   </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
+  <action id="MethodHierarchy" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="fireline.actions.FireLineAction">
     <mouse-shortcut keystroke="shift control button3" />
