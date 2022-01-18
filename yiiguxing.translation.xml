@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Provides contextual data and operation when applying a given constraint validator. At least one {@link ConstraintViolation} must be defined (either the default one, of if the default {@code ConstraintViolation} is disabled, a custom one)." />
+      <item value="validated By" />
+      <item value="does not pass the constraint" />
+      <item value="Implements the validation logic. The state of {@code value} must not be altered. &lt;p&gt; This method can be accessed concurrently, thread-safety must be ensured by the implementation. @param value object to validate @param context context in which the constraint is evaluated @return {@code false} if {@code value} does not pass the constraint" />
       <item value="Some problems were encountered while processing the POMs:" />
       <item value="Specify if the condition should match if the property is not set. Defaults to {@code false}. @return if should match if the property is missing" />
       <item value="The string representation of the expected value for the properties. If not specified, the property must &lt;strong&gt;not&lt;strong&gt; be equals to {@code false}. @return the expected value" />
@@ -47,10 +51,6 @@
       <item value="non-static inner classes like this can only by instantiated using default" />
       <item value="ASC" />
       <item value="construct Parametric Type" />
-      <item value="Illegal Argument Exception" />
-      <item value="class expects 0" />
-      <item value="decoder" />
-      <item value="standard Packet" />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641882532133" />
+    <option name="lastTrimTime" value="1642469596995" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
