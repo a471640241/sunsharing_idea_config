@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the {@code Class} object representing the class or interface that declares the field represented by this {@code Field} object." />
       <item value="Bussiness" />
       <item value="Bussiness Valid Service" />
       <item value="Provides contextual data and operation when applying a given constraint validator. At least one {@link ConstraintViolation} must be defined (either the default one, of if the default {@code ConstraintViolation} is disabled, a custom one)." />
@@ -50,7 +51,6 @@
       <item value="enable History Listen" />
       <item value="Access Denied Exception" />
       <item value="NO COMPRESSION" />
-      <item value="non-static inner classes like this can only by instantiated using default" />
     </histories>
     <option name="languageScores">
       <map>
