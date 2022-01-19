@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates whether the build will continue even if there are compilation errors." />
+      <item value="fail On Missing Web Xml" />
       <item value="increment" />
       <item value="Returns the {@code Class} object representing the class or interface that declares the field represented by this {@code Field} object." />
       <item value="Bussiness" />
@@ -49,8 +51,6 @@
       <item value="valid" />
       <item value="invalidate" />
       <item value="auto Lines" />
-      <item value="enable History Listen" />
-      <item value="Access Denied Exception" />
     </histories>
     <option name="languageScores">
       <map>
