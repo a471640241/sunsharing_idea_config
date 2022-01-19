@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prefix" />
+      <item value="Params: prefix – the prefix. Returns: true if the character sequence represented by the argument is a prefix of the character sequence represented by this string; false otherwise. Note also that true will be returned if the argument is an empty string or is equal to this String object as determined by the equals(Object) method." />
       <item value="Indicates whether the build will continue even if there are compilation errors." />
       <item value="fail On Missing Web Xml" />
       <item value="increment" />
@@ -49,8 +51,6 @@
       <item value="An artifact is in conflict, its version is probably wrongly resolved due to a bug in IntelliJ.yi " />
       <item value="Required request part 'file' is not present" />
       <item value="valid" />
-      <item value="invalidate" />
-      <item value="auto Lines" />
     </histories>
     <option name="languageScores">
       <map>
