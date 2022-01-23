@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ext" />
       <item value="Duplicated prefix" />
       <item value="integration" />
       <item value="prefix" />
@@ -50,7 +51,6 @@
       <item value="before" />
       <item value="No Such Field Error" />
       <item value="base" />
-      <item value="An artifact is in conflict, its version is probably wrongly resolved due to a bug in IntelliJ.yi " />
     </histories>
     <option name="languageScores">
       <map>
