@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Did you forget to include spring-cloud-starter-netflix-ribbon?" />
       <item value="It was either not specified andor could not be found for the javaType" />
       <item value="Type handler was null on parameter mapping for property" />
       <item value="A do nothing implementation of {@link ConfigureRedisAction}." />
@@ -50,7 +51,6 @@
       <item value="Attempt to assign to const or readonly variable" />
       <item value="on Process Result" />
       <item value="Compares this date-time to another date-time." />
-      <item value="Not registered via @EnableConfigurationProperties, marked as Spring component, or scanned via @ConfigurationPropertiesScan" />
     </histories>
     <option name="languageScores">
       <map>
