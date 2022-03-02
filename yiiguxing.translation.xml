@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It was either not specified andor could not be found for the javaType" />
+      <item value="Type handler was null on parameter mapping for property" />
       <item value="A do nothing implementation of {@link ConfigureRedisAction}." />
       <item value="Type handler was null on parameter mapping for property 'conditions.sfzh'." />
       <item value="No typehandler found for property" />
@@ -49,8 +51,6 @@
       <item value="on Process Result" />
       <item value="Compares this date-time to another date-time." />
       <item value="Not registered via @EnableConfigurationProperties, marked as Spring component, or scanned via @ConfigurationPropertiesScan" />
-      <item value="mt Amount" />
-      <item value="Result Maps collection already contains value" />
     </histories>
     <option name="languageScores">
       <map>
