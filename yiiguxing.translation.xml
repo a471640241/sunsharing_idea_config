@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No typehandler found for property" />
       <item value="Method has too many Body parameters" />
       <item value="The following candidates were found but could not be injected:" />
       <item value="Enable Configuration Properties" />
@@ -50,7 +51,6 @@
       <item value="Result Maps collection already contains value" />
       <item value="Artificial" />
       <item value="send Sms Artificial" />
-      <item value="is Before" />
     </histories>
     <option name="languageScores">
       <map>
