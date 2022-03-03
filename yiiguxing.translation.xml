@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spring.main.allow-bean-definition-overriding=true" />
+      <item value="dialect" />
       <item value="No spring.config.import property has been defined" />
       <item value="Did you forget to include spring-cloud-starter-netflix-ribbon?" />
       <item value="It was either not specified andor could not be found for the javaType" />
@@ -49,8 +51,6 @@
       <item value="send Async Sms" />
       <item value="ALPHA NUMERIC" />
       <item value="NUMERIC" />
-      <item value="Attempt to assign to const or readonly variable" />
-      <item value="on Process Result" />
     </histories>
     <option name="languageScores">
       <map>
