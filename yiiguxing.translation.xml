@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contains" />
       <item value="spring.main.allow-bean-definition-overriding=true" />
       <item value="dialect" />
       <item value="No spring.config.import property has been defined" />
@@ -50,7 +51,6 @@
       <item value="send Async Batch Sms" />
       <item value="send Async Sms" />
       <item value="ALPHA NUMERIC" />
-      <item value="NUMERIC" />
     </histories>
     <option name="languageScores">
       <map>
