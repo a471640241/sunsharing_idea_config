@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no such algorithm: aaa for provider BC" />
+      <item value="Key length not 128192256 bits." />
       <item value="contains" />
       <item value="spring.main.allow-bean-definition-overriding=true" />
       <item value="dialect" />
@@ -49,8 +51,6 @@
       <item value="If configuration is not required add spring.config.import=optional:configserver: instead." />
       <item value="describe" />
       <item value="send Async Batch Sms" />
-      <item value="send Async Sms" />
-      <item value="ALPHA NUMERIC" />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646193527768" />
+    <option name="lastTrimTime" value="1646876682461" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
