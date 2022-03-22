@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SYSTEM STATUS" />
+      <item value="SYSTEM STATU" />
       <item value="reason" />
       <item value="resaon" />
       <item value="is Assignable From" />
@@ -49,8 +51,6 @@
       <item value="after Properties Set" />
       <item value="edu Stage" />
       <item value="include Location" />
-      <item value="rest Day List" />
-      <item value="no Creators, like default constructor, exist" />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647425423337" />
+    <option name="lastTrimTime" value="1647943254529" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
