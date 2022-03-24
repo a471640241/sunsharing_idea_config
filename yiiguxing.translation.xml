@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid bound statement" />
       <item value="Indicate the ordering of the execution of the transaction advisor when multiple advices are applied at a specific joinpoint. &lt;p&gt;The default is {@link OrderedLOWEST_PRECEDENCE}." />
       <item value="HIGHEST PRECEDENCE" />
       <item value="LOWEST PRECEDENCE" />
@@ -50,7 +51,6 @@
       <item value="Specify if the condition should match if the property is not set. Defaults to {@code false}. @return if should match if the property is missing" />
       <item value="The string representation of the expected value for the properties. If not specified, the property must &lt;strong&gt;not&lt;strong&gt; be equals to {@code false}. @return the expected value" />
       <item value="cannot be opened because it does not exist" />
-      <item value="order By Asc" />
     </histories>
     <option name="languageScores">
       <map>
