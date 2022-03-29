@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incompatible Class Change Error" />
+      <item value="was expected" />
+      <item value="but class was expected" />
+      <item value="Found interface org.apache.poi.util.POILogger, but class was expected" />
       <item value="no String-argument constructorfactory method to deserialize from String value" />
       <item value="although at least one Creator exists" />
       <item value="Invalid bound statement" />
@@ -47,10 +51,6 @@
       <item value="Bussiness Valid Service" />
       <item value="Provides contextual data and operation when applying a given constraint validator. At least one {@link ConstraintViolation} must be defined (either the default one, of if the default {@code ConstraintViolation} is disabled, a custom one)." />
       <item value="validated By" />
-      <item value="does not pass the constraint" />
-      <item value="Implements the validation logic. The state of {@code value} must not be altered. &lt;p&gt; This method can be accessed concurrently, thread-safety must be ensured by the implementation. @param value object to validate @param context context in which the constraint is evaluated @return {@code false} if {@code value} does not pass the constraint" />
-      <item value="Some problems were encountered while processing the POMs:" />
-      <item value="Specify if the condition should match if the property is not set. Defaults to {@code false}. @return if should match if the property is missing" />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647943254529" />
+    <option name="lastTrimTime" value="1648520638950" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
