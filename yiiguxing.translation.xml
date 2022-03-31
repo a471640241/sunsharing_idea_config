@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Conditional On Missing Bean" />
       <item value="lock Interruptibly" />
       <item value="Incompatible Class Change Error" />
       <item value="was expected" />
@@ -37,7 +38,6 @@
       <item value="Enable Configuration Properties" />
       <item value="did not find any beans of type" />
       <item value="SearchStrategy: all" />
-      <item value="Conditional On Missing Bean" />
       <item value="Login Convert Service" />
       <item value="Ext" />
       <item value="Duplicated prefix" />
