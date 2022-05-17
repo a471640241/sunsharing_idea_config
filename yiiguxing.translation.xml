@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reason" />
+      <item value="to Upper Case" />
       <item value="SFZH IS EMPTY" />
       <item value="asc" />
       <item value="Set the default session timeout (in minutes) for this web application. @param timeout The new default session timeout" />
-      <item value="to Upper Case" />
       <item value="Conditional On Missing Bean" />
       <item value="lock Interruptibly" />
       <item value="Incompatible Class Change Error" />
@@ -20,7 +21,6 @@
       <item value="ne" />
       <item value="SYSTEM STATUS" />
       <item value="SYSTEM STATU" />
-      <item value="reason" />
       <item value="resaon" />
       <item value="is Assignable From" />
       <item value="FINISH" />
