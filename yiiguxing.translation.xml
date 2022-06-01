@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A bean with that name has already been defined and overriding is disabled." />
       <item value="ESLint: A function with a name starting with an uppercase letter should only be used as a constructor.(new-cap)" />
       <item value="Element Compose doesn't have required attribute field" />
       <item value="One record is expected, but the query result is multiple records" />
@@ -50,7 +51,6 @@
       <item value="Duplicated prefix" />
       <item value="integration" />
       <item value="prefix" />
-      <item value="Params: prefix – the prefix. Returns: true if the character sequence represented by the argument is a prefix of the character sequence represented by this string; false otherwise. Note also that true will be returned if the argument is an empty string or is equal to this String object as determined by the equals(Object) method." />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653621535349" />
+    <option name="lastTrimTime" value="1654055815947" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
