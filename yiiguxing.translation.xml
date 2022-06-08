@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to find a single main class from the following candidates" />
+      <item value="Execution repackage" />
       <item value="Expected an assignment or function call and instead saw an expression.(no-unused-expressions)" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
       <item value="A bean with that name has already been defined and overriding is disabled." />
@@ -49,8 +51,6 @@
       <item value="did not find any beans of type" />
       <item value="SearchStrategy: all" />
       <item value="Login Convert Service" />
-      <item value="Ext" />
-      <item value="Duplicated prefix" />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654055815947" />
+    <option name="lastTrimTime" value="1654680362547" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
