@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encryption Http Filter" />
       <item value="Unable to find a single main class from the following candidates" />
       <item value="Execution repackage" />
       <item value="Expected an assignment or function call and instead saw an expression.(no-unused-expressions)" />
@@ -50,7 +51,6 @@
       <item value="Enable Configuration Properties" />
       <item value="did not find any beans of type" />
       <item value="SearchStrategy: all" />
-      <item value="Login Convert Service" />
     </histories>
     <option name="languageScores">
       <map>
