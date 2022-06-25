@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Upper Case" />
       <item value="contains" />
       <item value="2 problems were encountered while building the effective model" />
       <item value="The POM for com.sunsharing.athena:athena-core:jar:1.0.0-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details" />
@@ -16,7 +17,6 @@
       <item value="Element Compose doesn't have required attribute field" />
       <item value="One record is expected, but the query result is multiple records" />
       <item value="reason" />
-      <item value="to Upper Case" />
       <item value="SFZH IS EMPTY" />
       <item value="asc" />
       <item value="Set the default session timeout (in minutes) for this web application. @param timeout The new default session timeout" />
