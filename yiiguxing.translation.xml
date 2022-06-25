@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contains" />
       <item value="2 problems were encountered while building the effective model" />
       <item value="The POM for com.sunsharing.athena:athena-core:jar:1.0.0-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details" />
       <item value="get Annotations By Type" />
@@ -40,7 +41,6 @@
       <item value="log4j-slf4j-impl cannot be present with log4j-to-slf4j" />
       <item value="no such algorithm: aaa for provider BC" />
       <item value="Key length not 128192256 bits." />
-      <item value="contains" />
       <item value="spring.main.allow-bean-definition-overriding=true" />
       <item value="dialect" />
       <item value="No spring.config.import property has been defined" />
