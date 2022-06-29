@@ -11,8 +11,8 @@
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.pom</mask>
+    <mask>*.js</mask>
   </component>
 </application>
