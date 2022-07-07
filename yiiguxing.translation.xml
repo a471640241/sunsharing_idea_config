@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No qualifying bean of type" />
       <item value="desc" />
       <item value="before Body Write Internal" />
       <item value="to Upper Case" />
@@ -50,7 +51,6 @@
       <item value="It was either not specified andor could not be found for the javaType" />
       <item value="Type handler was null on parameter mapping for property" />
       <item value="A do nothing implementation of {@link ConfigureRedisAction}." />
-      <item value="Type handler was null on parameter mapping for property 'conditions.sfzh'." />
     </histories>
     <option name="languageScores">
       <map>
