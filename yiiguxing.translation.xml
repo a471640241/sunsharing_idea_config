@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="map Not Null" />
+      <item value="decode" />
       <item value="desc" />
       <item value="CANLE" />
       <item value="house Async Service" />
@@ -49,8 +51,6 @@
       <item value="Key length not 128192256 bits." />
       <item value="spring.main.allow-bean-definition-overriding=true" />
       <item value="dialect" />
-      <item value="No spring.config.import property has been defined" />
-      <item value="Did you forget to include spring-cloud-starter-netflix-ribbon?" />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657509652423" />
+    <option name="lastTrimTime" value="1658223934803" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
