@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="required" />
+      <item value="unique" />
       <item value="map Not Null" />
       <item value="decode" />
       <item value="desc" />
@@ -49,8 +51,6 @@
       <item value="log4j-slf4j-impl cannot be present with log4j-to-slf4j" />
       <item value="no such algorithm: aaa for provider BC" />
       <item value="Key length not 128192256 bits." />
-      <item value="spring.main.allow-bean-definition-overriding=true" />
-      <item value="dialect" />
     </histories>
     <option name="languageScores">
       <map>
