@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result of 'String.toUpperCase()' is ignored" />
       <item value="to Upper Case" />
       <item value="TYPE CONTRACT" />
       <item value="TYPE PROPERTY" />
@@ -50,7 +51,6 @@
       <item value="SYSTEM STATU" />
       <item value="resaon" />
       <item value="is Assignable From" />
-      <item value="FINISH" />
     </histories>
     <option name="languageScores">
       <map>
