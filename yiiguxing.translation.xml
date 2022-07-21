@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Upper Case" />
       <item value="TYPE CONTRACT" />
       <item value="TYPE PROPERTY" />
       <item value="TYPE GUARANTEE" />
@@ -14,7 +15,6 @@
       <item value="IGNORED" />
       <item value="No qualifying bean of type" />
       <item value="before Body Write Internal" />
-      <item value="to Upper Case" />
       <item value="contains" />
       <item value="2 problems were encountered while building the effective model" />
       <item value="The POM for com.sunsharing.athena:athena-core:jar:1.0.0-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details" />
