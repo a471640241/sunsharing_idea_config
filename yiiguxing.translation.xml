@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="describe" />
       <item value="month" />
       <item value="NON NULL" />
       <item value="Result of 'String.toUpperCase()' is ignored" />
@@ -50,7 +51,6 @@
       <item value="LOWEST PRECEDENCE" />
       <item value="ne" />
       <item value="SYSTEM STATUS" />
-      <item value="SYSTEM STATU" />
     </histories>
     <option name="languageScores">
       <map>
